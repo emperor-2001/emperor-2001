@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js , express , mongoDB , REST Api**
 
-- 👨‍💻 All of my projects are available at [https://dhirendra.me/](http://dhirendra.me/)
+- 👨‍💻 All of my projects are available at [dhirendra.me](http://dhirendra.me/)
 
 - 📫 How to reach me **dhirendra2001.05.04@gmail.com**
 
